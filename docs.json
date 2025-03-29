@@ -100,3 +100,16 @@
     }
   }
 }
+
+"name": "Fall Brew"
+"logo": {
+  "light": "/logo/light.svg",
+  "dark": "/logo/dark.svg",
+  "href": "https://fall-brew.docs"
+},
+"favicon": "/favicon.svg",
+"colors": {
+  "primary": "#e28f25",
+  "light": "#55D799",
+  "dark": "#117866",
+},
